@@ -5,4 +5,7 @@ import java.awt.Graphics2D;
 
 public class FourDTetris {
     
+    public static void main(String[] args) {
+        
+    }
 }
